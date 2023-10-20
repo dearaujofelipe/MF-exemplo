@@ -27,5 +27,7 @@ namespace MicrofundamentoExemplo.Models
         [Display(Name = "Meu Score")]
 
         public int AnoModelo { get; set; }
+
+        public ICollection<Consumo> Consumos { get; set; }
     }
 }

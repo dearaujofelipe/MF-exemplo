@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\Pichau\source\repos\MicrofundamentoExemploApp\MicrofundamentoExemplo
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Pichau/source/repos/MicrofundamentoExemploApp/MicrofundamentoExemplo/Views/Consumos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3Vtb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/source/repos/MicrofundamentoExemploApp/MicrofundamentoExemplo/Views/Consumos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3Vtb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/source/repos/MicrofundamentoExemploApp/MicrofundamentoExemplo/Views/Consumos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3Vtb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/source/repos/MicrofundamentoExemploApp/MicrofundamentoExemplo/Views/Consumos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3Vtb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/source/repos/MicrofundamentoExemploApp/MicrofundamentoExemplo/Views/Consumos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3Vtb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Pichau/source/repos/MicrofundamentoExemploApp/MicrofundamentoExemplo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -50,6 +70,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Pichau/source/repos/MicrofundamentoExemploApp/MicrofundamentoExemplo/Views/Veiculos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Pichau/source/repos/MicrofundamentoExemploApp/MicrofundamentoExemplo/Views/Veiculos/Relatorio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb3NcUmVsYXRvcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Pichau/source/repos/MicrofundamentoExemploApp/MicrofundamentoExemplo/Views/_ViewImports.cshtml]
